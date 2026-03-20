@@ -104,7 +104,7 @@ where $k = \frac{Q}{\lambda(1 - Q) \Delta (1 - p_t)}$.
 
 The effective optimal coverage, accounting for the option to not insure or to exit the resource sector entirely, is:
 
-$$\delta^+(t) = \begin{cases} \delta^* & \text{if } U_{\delta^*}(t) > U_0(t) \text{ and } U_{\delta^*}(t) > \bar{U} \\ 0 & \text{otherwise} \end{cases}$$
+$$\delta^{+(t)} = \begin{cases} \delta^* & \text{if } U_{\delta^*}(t) > U_0(t) \text{ and } U_{\delta^*}(t) > \bar{U} \\ 0 & \text{otherwise} \end{cases}$$
 
 where $\bar{U}$ is the utility from an alternative livelihood.
 
